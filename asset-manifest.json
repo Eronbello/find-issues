@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "http://eronbello.github.io/find-issues/static/js/main.d24b15ae.chunk.js",
-    "main.js.map": "http://eronbello.github.io/find-issues/static/js/main.d24b15ae.chunk.js.map",
-    "runtime-main.js": "http://eronbello.github.io/find-issues/static/js/runtime-main.979384f9.js",
-    "runtime-main.js.map": "http://eronbello.github.io/find-issues/static/js/runtime-main.979384f9.js.map",
-    "static/js/2.78360cd6.chunk.js": "http://eronbello.github.io/find-issues/static/js/2.78360cd6.chunk.js",
-    "static/js/2.78360cd6.chunk.js.map": "http://eronbello.github.io/find-issues/static/js/2.78360cd6.chunk.js.map",
-    "index.html": "http://eronbello.github.io/find-issues/index.html",
-    "precache-manifest.8eb26f34f3bc9fa90ba87197e87d59ca.js": "http://eronbello.github.io/find-issues/precache-manifest.8eb26f34f3bc9fa90ba87197e87d59ca.js",
-    "service-worker.js": "http://eronbello.github.io/find-issues/service-worker.js",
-    "static/js/2.78360cd6.chunk.js.LICENSE.txt": "http://eronbello.github.io/find-issues/static/js/2.78360cd6.chunk.js.LICENSE.txt"
+    "main.js": "https://eronbello.github.io/find-issues/static/js/main.685995e0.chunk.js",
+    "main.js.map": "https://eronbello.github.io/find-issues/static/js/main.685995e0.chunk.js.map",
+    "runtime-main.js": "https://eronbello.github.io/find-issues/static/js/runtime-main.22a6113d.js",
+    "runtime-main.js.map": "https://eronbello.github.io/find-issues/static/js/runtime-main.22a6113d.js.map",
+    "static/js/2.7c677e7e.chunk.js": "https://eronbello.github.io/find-issues/static/js/2.7c677e7e.chunk.js",
+    "static/js/2.7c677e7e.chunk.js.map": "https://eronbello.github.io/find-issues/static/js/2.7c677e7e.chunk.js.map",
+    "index.html": "https://eronbello.github.io/find-issues/index.html",
+    "precache-manifest.32b773bdaa586605c54e67c83715d999.js": "https://eronbello.github.io/find-issues/precache-manifest.32b773bdaa586605c54e67c83715d999.js",
+    "service-worker.js": "https://eronbello.github.io/find-issues/service-worker.js",
+    "static/js/2.7c677e7e.chunk.js.LICENSE.txt": "https://eronbello.github.io/find-issues/static/js/2.7c677e7e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.979384f9.js",
-    "static/js/2.78360cd6.chunk.js",
-    "static/js/main.d24b15ae.chunk.js"
+    "static/js/runtime-main.22a6113d.js",
+    "static/js/2.7c677e7e.chunk.js",
+    "static/js/main.685995e0.chunk.js"
   ]
 }
