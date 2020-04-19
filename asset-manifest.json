@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://eronbello.github.io/find-issues/static/js/main.685995e0.chunk.js",
-    "main.js.map": "https://eronbello.github.io/find-issues/static/js/main.685995e0.chunk.js.map",
+    "main.js": "https://eronbello.github.io/find-issues/static/js/main.e69e0943.chunk.js",
+    "main.js.map": "https://eronbello.github.io/find-issues/static/js/main.e69e0943.chunk.js.map",
     "runtime-main.js": "https://eronbello.github.io/find-issues/static/js/runtime-main.22a6113d.js",
     "runtime-main.js.map": "https://eronbello.github.io/find-issues/static/js/runtime-main.22a6113d.js.map",
-    "static/js/2.7c677e7e.chunk.js": "https://eronbello.github.io/find-issues/static/js/2.7c677e7e.chunk.js",
-    "static/js/2.7c677e7e.chunk.js.map": "https://eronbello.github.io/find-issues/static/js/2.7c677e7e.chunk.js.map",
+    "static/js/2.673583a9.chunk.js": "https://eronbello.github.io/find-issues/static/js/2.673583a9.chunk.js",
+    "static/js/2.673583a9.chunk.js.map": "https://eronbello.github.io/find-issues/static/js/2.673583a9.chunk.js.map",
     "index.html": "https://eronbello.github.io/find-issues/index.html",
-    "precache-manifest.32b773bdaa586605c54e67c83715d999.js": "https://eronbello.github.io/find-issues/precache-manifest.32b773bdaa586605c54e67c83715d999.js",
+    "precache-manifest.58ead834352deece83b90eaa0d8cc463.js": "https://eronbello.github.io/find-issues/precache-manifest.58ead834352deece83b90eaa0d8cc463.js",
     "service-worker.js": "https://eronbello.github.io/find-issues/service-worker.js",
-    "static/js/2.7c677e7e.chunk.js.LICENSE.txt": "https://eronbello.github.io/find-issues/static/js/2.7c677e7e.chunk.js.LICENSE.txt"
+    "static/js/2.673583a9.chunk.js.LICENSE.txt": "https://eronbello.github.io/find-issues/static/js/2.673583a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.22a6113d.js",
-    "static/js/2.7c677e7e.chunk.js",
-    "static/js/main.685995e0.chunk.js"
+    "static/js/2.673583a9.chunk.js",
+    "static/js/main.e69e0943.chunk.js"
   ]
 }

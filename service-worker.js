@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://eronbello.github.io/find-issues/precache-manifest.32b773bdaa586605c54e67c83715d999.js"
+  "https://eronbello.github.io/find-issues/precache-manifest.58ead834352deece83b90eaa0d8cc463.js"
 );
 
 self.addEventListener('message', (event) => {
