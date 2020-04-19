@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.e5783fbd.chunk.js",
-    "main.js.map": "/static/js/main.e5783fbd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1f1f19a3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1f1f19a3.js.map",
-    "static/js/2.9ae27090.chunk.js": "/static/js/2.9ae27090.chunk.js",
-    "static/js/2.9ae27090.chunk.js.map": "/static/js/2.9ae27090.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf0291ccb6233c97ae0ac883742ae6d7.js": "/precache-manifest.bf0291ccb6233c97ae0ac883742ae6d7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.9ae27090.chunk.js.LICENSE.txt": "/static/js/2.9ae27090.chunk.js.LICENSE.txt"
+    "main.js": "http://eronbello.github.io/find-issues/static/js/main.d24b15ae.chunk.js",
+    "main.js.map": "http://eronbello.github.io/find-issues/static/js/main.d24b15ae.chunk.js.map",
+    "runtime-main.js": "http://eronbello.github.io/find-issues/static/js/runtime-main.979384f9.js",
+    "runtime-main.js.map": "http://eronbello.github.io/find-issues/static/js/runtime-main.979384f9.js.map",
+    "static/js/2.78360cd6.chunk.js": "http://eronbello.github.io/find-issues/static/js/2.78360cd6.chunk.js",
+    "static/js/2.78360cd6.chunk.js.map": "http://eronbello.github.io/find-issues/static/js/2.78360cd6.chunk.js.map",
+    "index.html": "http://eronbello.github.io/find-issues/index.html",
+    "precache-manifest.8eb26f34f3bc9fa90ba87197e87d59ca.js": "http://eronbello.github.io/find-issues/precache-manifest.8eb26f34f3bc9fa90ba87197e87d59ca.js",
+    "service-worker.js": "http://eronbello.github.io/find-issues/service-worker.js",
+    "static/js/2.78360cd6.chunk.js.LICENSE.txt": "http://eronbello.github.io/find-issues/static/js/2.78360cd6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f1f19a3.js",
-    "static/js/2.9ae27090.chunk.js",
-    "static/js/main.e5783fbd.chunk.js"
+    "static/js/runtime-main.979384f9.js",
+    "static/js/2.78360cd6.chunk.js",
+    "static/js/main.d24b15ae.chunk.js"
   ]
 }
